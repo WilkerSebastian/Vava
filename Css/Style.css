@@ -78,7 +78,7 @@ a {
     background: linear-gradient(135deg, rgb(255, 51, 66) 0%, rgb(255, 48, 64) 0.01%, rgb(255, 125, 102) 100%);
 }
 .background1{
-    background-image: url(/game1/Img/background1.JPG);
+    background-image: url("../Img/background1.jpg");
 }
 
 /* noticias do site principal*/
@@ -458,7 +458,7 @@ a {
 /* login */
 
 .login {
-    background-image: url(../Img/background_login.jpg);
+    background-image: url("../Img/background_login.jpg");
     background-attachment: fixed;
     position: relative;
     background-size: cover;
@@ -478,14 +478,14 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     margin-left: 5%;
-    background-image: url(/game1/Img/guiatop2.jpg);
+    background-image: url("../Img/guiatop2.jpg");
     border-bottom: 2px solid #01213e;
     border-left: 2px solid #01213e;
     border-right: 2px solid #01213e;    
 }
 
 .guia_top{
-    background-image: url(/game1/Img/background1.JPG);
+    background-image: url("../Img/background1.jpg");
     border-left: 2px solid #01213e;
     border-right: 2px solid #01213e;
     border-top: 2px solid #01213e;
@@ -493,7 +493,7 @@ a {
 }
 
 .background2{
-    background-image: url(/game1/Img/background-sprite.png);
+    background-image: url("../Img/background-sprite.png");
 }
 
 .info1{
@@ -550,7 +550,7 @@ a {
 
 .info2{
     background-color: #ff4655;
-    background-image: url(/game1/Img/background-sprite.png);
+    background-image: url("../Img/background-sprite.png");
 }
 .titulo_guia2 h2 span{
     font-weight: 100;
@@ -599,7 +599,7 @@ a {
   }
 
   .info3{
-    background-image: url(/game1/Img/backgroundmaps.png);
+    background-image: url("../Img/backgroundmaps.png");
     height: 100vh;
     width: 100vw;
     background-repeat: no-repeat;
@@ -668,7 +668,7 @@ a {
 }
 
 .background_clas{
-    background-image: url(/game1/Img/background5.jpg);
+    background-image: url("../Img/background5.jpg");
     height: auto;
     width: auto;
     background-repeat: no-repeat;

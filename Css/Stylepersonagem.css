@@ -1,6 +1,6 @@
 
 .menu_personagens{
-    background-image: url(/Img/background1.JPG);
+    background-image: url("../Img/background1.jpg");
     height: 100vh;
     width: 100vw;
     background-repeat: no-repeat;
